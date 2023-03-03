@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    margin: 0;
+    padding: 0;
+    z-index: 1;
+    height: 15%;
+}
+
+ul{
+    margin-left: 75%;
+}
+
+nav h5:hover{
+    color: antiquewhite;
+}
+
+nav svg:hover{
+    color: black;
+}
+
+.icono{
+    color: aliceblue;
+}
+
+.img-fluid{
+    height:  40%;
+    width: 40% ;
+}
+
+.text{
+    margin-right: 6px;
+}
+
+.mix{
+    background-image: url(../imagenes/leopardo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 40%;
+    height: 50vh;
+}
+
+.lead{
+    color: antiquewhite;
+}
